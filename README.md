@@ -18,7 +18,7 @@ Toda la información se guarda **solo en tu dispositivo** (`localStorage` en la 
 - Estadísticas semanales, racha y **reporte PDF** de autoseguimiento (no diagnóstico).
 - 120 píldoras de salud, sonidos configurables, **No molestar**, copia de seguridad JSON.
 - **Bilingüe** (Español / English), tema claro/oscuro y `prefers-reduced-motion`.
-- **Tour interactivo** de bienvenida.
+- **Tour interactivo** de bienvenida. 
 
 ## Estructura
 ```
